@@ -1,4 +1,4 @@
-# refactored-succotash
+# Clon de Google
 Proyecto realizado con la intención de aplicar los conocimientos obtenidos en el bootcamp de Tecnolochicas PRO Summer Camp 2023.
 Puedes poner en práctica tus habilidades revisando y utilizando el código a continuación.
 
